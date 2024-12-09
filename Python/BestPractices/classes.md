@@ -1,0 +1,1 @@
+- **don’t write getters and setters** for classes, you are not using Java
