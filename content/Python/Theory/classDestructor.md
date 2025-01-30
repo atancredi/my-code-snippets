@@ -1,0 +1,1 @@
+https://www.andy-pearce.com/blog/posts/2013/Apr/python-destructor-drawbacks/
