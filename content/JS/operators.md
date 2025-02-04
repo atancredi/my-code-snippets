@@ -7,3 +7,15 @@ This is useful when TypeScript thinks a value might be null or undefined, but yo
 ## Optional chaining operator (?)
 The ? means optional chaining.
 If the checked property is null or undefined the entire expression returns undefined instead of throwing an error.
+
+## Spread operator (...)
+Expands an iterable into a specified receiver.
+```js
+let d = {
+	"1": "aa",
+	"2": "bb"
+}
+
+let d_extended = {...d, "3":"cc"}
+// {"1":"aa","2":"bb","3":"cc"}
+```

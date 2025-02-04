@@ -1,6 +1,5 @@
 ```python
 from fastapi import FastAPI, Request, Response
-from fastapi.staticfiles import StaticFiles
 import uvicorn
 
 # Define app
