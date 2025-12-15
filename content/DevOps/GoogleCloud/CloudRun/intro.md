@@ -1,0 +1,2 @@
+### Cloud Run is container-based, and it enables users to run stateless containers that are invocable via web requests or Pub/Sub events.
+It can be applied to cases like building websites, REST APIs backends, back-office administration, light-weight data processing and automation tasks.

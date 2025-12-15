@@ -1,0 +1,1 @@
+- https://github.com/padok-team/github-actions-tutorial

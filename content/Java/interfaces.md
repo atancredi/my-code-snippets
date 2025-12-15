@@ -1,0 +1,1 @@
+very good explanation https://stackoverflow.com/questions/383947/what-does-it-mean-to-program-to-an-interface/384067#384067

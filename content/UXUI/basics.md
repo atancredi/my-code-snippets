@@ -1,0 +1,17 @@
+- 1: write user flow - from start to reach of key goal by the user
+- 2: wireframe based on user flow
+- 3: colors
+	- colors are important - they should reflect the brand's value image etc etc.
+	- background, text, primary, secondary, accent, error, success (+ text secondary color, primary and secondary shades or gradients)
+- 4: fonts
+	- title: 32px, body: 18px, small: 14px (responsive guidelines)
+- 5: follow golden rules
+	- 1. ensure visual hierarchy
+	- contrast between colors
+	- balance in spacing
+	- consistency in spacing and placement
+	- simplicity and straightforwardness
+	- ask for feedback
+- use tools
+	- realtime colors for choosing colors and fonts
+	- typescale for choosing appropriate font sizes

@@ -1,0 +1,4 @@
+
+**Publish requests** refer to publish API calls that you send, and **publish operations** refer to the number of messages published. When [publish batching](https://cloud.google.com/pubsub/docs/publisher#batching) is enabled, multiple messages may be sent in one publish API call, and you should expect a higher number for **publish operations** than **publish requests** if your batch size is greater than one message.
+
+**Unacked message count** and **oldest message age** refer to the number and age of undelivered messages in your subscription. You should pay attention if they grow together and stay elevated because that would mean the service has accumulated a backlog of undeliverable or undelivered messages. When these messages in the backlog expire after the message retention period, you will risk losing them forever.

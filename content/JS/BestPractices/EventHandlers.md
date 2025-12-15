@@ -1,0 +1,2 @@
+- an event handler occupies memory
+	- good strategy is to add the handler on the parent element and discriminate every case resulting from the child elements

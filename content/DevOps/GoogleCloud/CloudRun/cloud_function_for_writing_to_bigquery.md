@@ -1,0 +1,6 @@
+- https://github.com/looker-open-source/sdk-codegen/blob/main/examples/python/cloud-function-write-to-bigquery/main.py
+- https://andrewm4894.com/2020/01/28/github-webhook-cloud-function-bigquery/
+- https://github.com/fonylew/simple-cloud-functions-to-bigquery
+- https://matthew-hoss.medium.com/scheduling-cloud-functions-to-update-bigquery-ab84aab94d6
+- https://github.com/PacktPublishing/Python-Data-Cleaning-Best-Practices/blob/main/bigquery.py
+- https://cloud.google.com/functions/docs/bestpractices/tips
