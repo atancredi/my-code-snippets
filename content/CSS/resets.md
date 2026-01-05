@@ -30,3 +30,29 @@ button:hover {
     text-decoration: underline;
 }
 ```
+
+## Mobile reset
+```css
+body, html {
+	/* remove page scrolling*/
+	overflow: hidden; 
+
+	/* this sets the mobile navbar to black */
+	background: #000;
+}
+```
+
+## Reset user text selection
+```css
+/*
+Source - https://stackoverflow.com/a
+Posted by Blowsie, modified by community. See post 'Timeline' for change history
+Retrieved 2026-01-03, License - CC BY-SA 4.0
+*/
+
+.noselect {
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+```
