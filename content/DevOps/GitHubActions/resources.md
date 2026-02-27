@@ -1,1 +1,2 @@
 - https://github.com/padok-team/github-actions-tutorial
+- https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows
