@@ -7,4 +7,8 @@ As parts of my job, the topics covers from various low-level applications in _Py
 In the future I plan to add all the resources on Data Analysis, Numerical Methods, Algorythms and MLAI gathered during my Bachelor's degree in Physics.
 
 
-###### in case you forgot: `npx quartz sync`
+
+```bash
+# in case you forgot: 
+npx quartz sync
+```
