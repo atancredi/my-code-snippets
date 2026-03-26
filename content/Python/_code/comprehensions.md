@@ -7,4 +7,7 @@ arr[::-1]
 ## flatten a list of lists
 ```python
 flat = [item for sublist in nested for item in sublist]
+
+def flatten(nested):
+    return [item for sublist in nested for item in sublist]
 ```
