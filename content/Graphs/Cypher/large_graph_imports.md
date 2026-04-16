@@ -1,0 +1,10 @@
+- set storage mode to in memory analytical (no delta objects, less memory overhead)
+	- https://memgraph.com/docs/fundamentals/storage-memory-usage#switch-storage-modes
+- import nodes with LOAD CSV
+- create indexes on nodes properties used to link them by relationships
+- switch on edge import mode
+	- EDGE IMPORT MODE ACTIVE;
+- import edges with LOAD CSV
+- switch off edge import mode
+	- EDGE IMPORT MODE INACTIVE;
+- set storage mode back to in memory transactional
